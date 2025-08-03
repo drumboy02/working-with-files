@@ -5,3 +5,7 @@ Cisco NetAcad Python Essentials 2 course.
 
 char_freq_histogram.py prompts the user for the name of a text file and 
 counts the number and frequency of alphabetical characters in it.
+
+sorted_char_histogram.py uses a different method to count the number and 
+frequency of characters, sorts them into descending order and writes them
+to a new file.

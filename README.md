@@ -9,3 +9,7 @@ counts the number and frequency of alphabetical characters in it.
 sorted_char_histogram.py uses a different method to count the number and 
 frequency of characters, sorts them into descending order and writes them
 to a new file.
+
+eval_student_results.py prompts the user for the name of a text file containing
+student scores, reads the contents, counts the sum of scores for each student
+and prints a report.
